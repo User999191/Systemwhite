@@ -1,6 +1,7 @@
 local player = {
    "Anthonyz_ohhhhh8"
-   ""
+   "Jkuyajun"
+   "Aztro_3737isgoater"
 }
 
 if game.Players.LocalPlayer.Name == unpack(player) then
