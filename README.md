@@ -21,6 +21,4 @@ starterGui:SetCore("SendNotification",  {
       Text = "UnWhitelist",
       Duration = 5
 })
-while wait(10) do
-player:kick("Not" . . " Whitelisted")
 end
