@@ -49,7 +49,7 @@ starterGui:SetCore("SendNotification",  {
 end
 
 local player = {
-   "Kmg_kashalt"
+   "Kmg_KashAlt"
 }
 
 if game.Players.LocalPlayer.Name == unpack(player) then
