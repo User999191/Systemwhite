@@ -1,5 +1,5 @@
 local player = {
-   "Anthonyz_ohhhhh8"
+   ""
 }
 
 if game.Players.LocalPlayer.Name == unpack(player) then
@@ -18,7 +18,7 @@ else
 
 starterGui:SetCore("SendNotification",  {
       Title = "Whitelist System",
-      Text = "UnWhitelist",
+      Text = "Anthonyz_ohhhhh8 u blacklist for: sent porn link   time:9:20 to whitelist",
       Duration = 5
 })
 end
@@ -49,7 +49,7 @@ starterGui:SetCore("SendNotification",  {
 end
 
 local player = {
-   "Kmg_KashAlt"
+   ""
 }
 
 if game.Players.LocalPlayer.Name == unpack(player) then
@@ -68,7 +68,7 @@ else
 
 starterGui:SetCore("SendNotification",  {
       Title = "Whitelist System",
-      Text = "UnWhitelist",
+      Text = "balcklisted!",
       Duration = 5
 })
 end
